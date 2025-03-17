@@ -1,0 +1,13 @@
+annotated-types @ file:///C:/b/abs_0dmaoyhhj3/croot/annotated-types_1709542968311/work
+anyio @ file:///C:/b/abs_31grv7a7bl/croot/anyio_1729121290992/work
+click @ file:///D:/bld/click_1734858834134/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
+fastapi @ file:///C:/b/abs_96d9k5nptn/croot/fastapi_1724789169469/work
+h11 @ file:///home/conda/feedstock_root/build_artifacts/h11_1733327467879/work
+idna @ file:///C:/b/abs_aad84bnnw5/croot/idna_1714398896795/work
+pydantic @ file:///C:/b/abs_27dx58x550/croot/pydantic_1734736090499/work
+pydantic_core @ file:///C:/b/abs_bdosz7qwys/croot/pydantic-core_1734726071532/work
+sniffio @ file:///C:/b/abs_3akdewudo_/croot/sniffio_1705431337396/work
+starlette @ file:///C:/b/abs_584arzjt6c/croot/starlette-recipe_1724683216853/work
+typing_extensions @ file:///C:/b/abs_0ffjxtihug/croot/typing_extensions_1734714875646/work
+uvicorn @ file:///D:/bld/uvicorn_1734292951833/work
